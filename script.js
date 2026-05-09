@@ -3,4 +3,9 @@
 */
 
 console.log('Task Tracker Running...');
+
 console.log(2+8)
+console.log(10)
+
+
+console.log('The branch is merged!!')
